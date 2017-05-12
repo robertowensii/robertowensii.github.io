@@ -8,14 +8,14 @@ h1.top {
   color:white;
   opacity: .7;
   position: absolute;
-  top: 80px;
+  top: 70px;
   right: 120px;
 }
 h4.top {
   color: white;
   position: absolute;
   opacity: .7;
-  top: 140px;
+  top: 120px;
   right: 70px;
   padding: 5px;
 }
