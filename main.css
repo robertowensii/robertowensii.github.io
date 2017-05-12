@@ -12,6 +12,7 @@ h1.top {
   right: 120px;
 }
 h4.top {
+  font-size: 12px;
   color: white;
   position: absolute;
   opacity: .7;
