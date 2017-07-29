@@ -121,3 +121,9 @@ h4 {
 #myCarousel {
   margin-top: 50px;
 }
+#resume {
+  margin: auto;
+  position: absolute;
+  height: 80%;
+  width: 75%;
+}
