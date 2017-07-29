@@ -124,6 +124,6 @@ h4 {
 #resume {
   margin: auto;
   position: absolute;
-  height: 80%;
-  width: 75%;
+  height: auto;
+  width: 100%;
 }
